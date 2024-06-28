@@ -218,8 +218,8 @@
             <li>
               <hr class="dropdown-divider">
             </li>
-          {{--  <li>
-              <a href="{{route('cache.clear')}}"></a>
+        <li>
+            
               <a class="dropdown-item d-flex align-items-center" href="{{route('logout')}}" onclick="event.preventDefault();
                document.getElementById('logout-form').submit();">
                 <i class="bi bi-box-arrow-right"></i>
@@ -228,7 +228,7 @@
                   @csrf
                 </form>
               </a>
-            </li>--}}
+            </li>
 
           </ul><!-- End Profile Dropdown Items -->
         </li><!-- End Profile Nav -->
