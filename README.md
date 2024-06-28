@@ -32,7 +32,7 @@ php artisan db:seed --class=UserSeeder
 ## Running the application:
 
 Start development server: <br>
-php artisan serve
+php artisan serve <br>
 This will start the development server, typically accessible at http://localhost:8000 in your web browser.
 
 ## Login Details
