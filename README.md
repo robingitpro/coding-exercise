@@ -19,7 +19,13 @@ composer install <br>
 php artisan key:generate
 ## Configure database settings:
 Copy .env.example to .env.<br>
-Edit the .env file and update the database connection details (host, database name, username, password).
+Edit the .env file and update the database connection details (host, database name, username, password).<br><br>
+DB_CONNECTION=mysql<br>
+DB_HOST=127.0.0.1<br>
+DB_PORT=3306<br>
+DB_DATABASE=//dbname<br>
+DB_USERNAME=//dbusername root or something else depending upon user phpmyadmin username<br>
+DB_PASSWORD=//put blank if not password is there
 
 
 ## Migrate database schema:
