@@ -39,4 +39,4 @@ This will start the development server, typically accessible at http://localhost
 username : admin@gmail.com <br>
 password : 123456
 
-This README file provides a basic structure for getting your Laravel application up and running. You can customize it further to include additional information specific to your project.
+This README file provides a basic structure for getting your Laravel application up and running.
